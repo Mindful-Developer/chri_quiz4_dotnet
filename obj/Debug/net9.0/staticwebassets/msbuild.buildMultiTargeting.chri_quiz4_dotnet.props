@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\chri_quiz4_dotnet.props" />
+</Project>

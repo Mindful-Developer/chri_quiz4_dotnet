@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\chri_quiz4_dotnet.props" />
+</Project>

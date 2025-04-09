@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v9.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v9.0": {
+      "chri_quiz4_dotnet/1.0.0": {
+        "runtime": {
+          "chri_quiz4_dotnet.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "chri_quiz4_dotnet/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
