@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("chri_quiz4_dotnet")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ba50abb3f229df07b6c2d827451d063d6c0e68fd")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+0013c22ed6c0ec238e4d66818f358a07663f87b2")]
 [assembly: System.Reflection.AssemblyProductAttribute("chri_quiz4_dotnet")]
 [assembly: System.Reflection.AssemblyTitleAttribute("chri_quiz4_dotnet")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
